@@ -1,0 +1,5 @@
+﻿# Runtime data (local DB, logs, exports, lock)
+KitsTrackStandardDemo/app_data/kitstrack.db*
+KitsTrackStandardDemo/app_data/server.lock
+KitsTrackStandardDemo/app_data/logs/
+KitsTrackStandardDemo/app_data/exports/
