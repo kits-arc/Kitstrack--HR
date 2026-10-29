@@ -14,7 +14,7 @@ WHAT TO SHOW (about 10 minutes)
 - Manager: Payroll Approval (approve / return a run, DRAFT and FINAL Excel exports), Reports & Exports (daily attendance
            report, permission register), Settings (policy, appearance), Audit History.
 - Root (demo_root): Organization Setup - choose Basic or Standard and tick Basic's features; the level is shown under Settings > Configuration.
-- Version 0.6.0 features, all with dummy data: Departments & Designations, Shift Master & Planning (staffing plan shows short / over shifts),
+- Version 0.6.2 (look, roster and sign-in fixes) and 0.6.0 features, all with dummy data: Departments & Designations, Shift Master & Planning (staffing plan shows short / over shifts),
   Leave Entitlements (balances), Fines & Deductions (Admin requests, Manager approves; some are waiting), Payslips (PDF) and Statutory Exports
   (PF / ESI / professional tax / bank file for the approved month-so-far run, muster roll, overtime register), Agents & Contractors, Shift Notifications.
 - Three months of attendance and payroll are already in: one locked, one corrected and locked, one waiting for approval.
